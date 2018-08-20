@@ -10,7 +10,7 @@
 
 1. "NYMUN Multan.csv" file (collect data)
 2. Adobe Acrobat Reader DC (print files)
-3. *Internet connection (send mails) 
+3. *Internet connection (send mails)* 
 
 
 ### How to run:
@@ -24,4 +24,5 @@
 # Important Note:
 - Do not close the program during process.
 
-* can be activated on request
+# *
+ can be activated on request
