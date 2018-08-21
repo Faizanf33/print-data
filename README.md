@@ -14,8 +14,8 @@
 
 ### How to run:
 
-1. Extract "pyPrint.rar" and Copy ".csv" file into pyPrint directory,
-2. In pyPrint directory find and open "pyPrint.exe",
+1. Copy ".csv" file into current directory(print-data),
+2. Run "pyPrint.exe",
 3. First arrange your data by clicking on "ARRANGE DATA",
 4. On your desktop "NYMUN FORMS" directory will be created along with 5 sub-directries,
 5. Go to sub-directories and "PRINT" any available serials,
