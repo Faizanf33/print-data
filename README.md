@@ -1,8 +1,8 @@
 # Please read this instructions:
 
 - pyPrint Program is designed for specific type of data
-- works on WindowsOS only (7, 8.1, 10) 
-- program needs lots of improvement, fixes
+- works on Windows(OS) only (7, 8.1, 10) 
+- still needs improvements, fixes
 
 
 ## Requirements:
@@ -14,15 +14,16 @@
 
 ### How to run:
 
-1. Copy ".csv" file into current directory(print-data),
-2. Run "pyPrint.exe",
-3. First arrange your data by clicking on "ARRANGE DATA",
-4. On your desktop "NYMUN FORMS" directory will be created along with 5 sub-directries,
-5. Go to sub-directories and "PRINT" any available serials,
-6. Can also search for available serials using "Email-Id/Phone-No."
+1. Run "pyPrint.exe",
+2. First choose a file to re-arrange it's data,
+3. On your desktop "NYMUN FORMS" directory will be created along with 5 sub-directries,
+4. Go to sub-directories and "PRINT" any available serials,
+5. Or search for available serials using provided "Email-Id/Phone-No.",
+6. Print records can be found inside "NYMUN FORMS" directory placed at your desktop.
 
 ## Optional:
-- Send mail by starting server,
+
+- Send mail(s) by starting server,
 - If server is on, user will be prompted to send mail,
 - A confimation mail will be sent to address in serial file,
 
